@@ -23,3 +23,23 @@ Open the file in your Python editor
 Press F5 (or click Run)
 
 Option 3 - Direct Python command:
+bashpython3 guess_the_number.py
+
+### **Requirements:**
+- Python 3.x installed on your computer
+- No additional libraries needed (uses built-in `random` module)
+
+### **Sample Gameplay:**
+```
+🎮 WELCOME TO GUESS THE NUMBER! 🎮
+I'm thinking of a number between 1 and 100.
+You have 7 attempts to guess it!
+
+Attempt 1/7 - Enter your guess: 50
+📈 Too low! Try higher. (6 attempts left)
+
+Attempt 2/7 - Enter your guess: 75
+📉 Too high! Try lower. (5 attempts left)
+
+Attempt 3/7 - Enter your guess: 62
+🏆 CONGRATULATIONS! You won in 3 attempts!
