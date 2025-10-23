@@ -13,3 +13,13 @@ Lose if you run out of attempts
 
 
 Replay Option: After each game, you can choose to play again
+
+How to Run:
+Option 1 - Using Terminal/Command Prompt:
+bashpython guess_the_number.py
+Option 2 - Using Python IDLE or any IDE:
+
+Open the file in your Python editor
+Press F5 (or click Run)
+
+Option 3 - Direct Python command:
